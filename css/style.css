@@ -1,0 +1,168 @@
+.heder-ele {
+  width: 1440px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  /* margin-left: 411.5px; */
+}
+
+.logo {
+  max-width: 100%;
+  border: 1px solid #658c4a;
+  margin-left: 411.5px;
+  margin-bottom: 16px;
+}
+
+.nav-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.new {
+  width: 75px;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border: 0px 0px 4px 0px;
+  opacity: 0px;
+}
+
+.cloth {
+  width: 98pxpx;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border: 0px 0px 4px 0px;
+  opacity: 0px;
+}
+
+.bath {
+  width: 68px;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border: 0px 0px 4px 0px;
+  opacity: 0px;
+}
+
+.bedd {
+  width: 97px;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border: 0px 0px 4px 0px;
+  opacity: 0px;
+}
+
+.acce {
+  width: 119px;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border: 0px 0px 4px 0px;
+  opacity: 0px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.main-ph {
+  width: 100%;
+}
+
+/* second section hed */
+.sec-2 {
+  width: 1440px;
+  height: 744px;
+  top: 560px;
+  left: -0px;
+  padding: 80px 60px 80px 60px;
+  gap: 40px;
+  opacity: 0px;
+  background: #658c4a;
+  /* display: flex;
+  align-items: center; */
+}
+
+.firs-sec {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.fi-h2 {
+  margin: 0;
+  font-size: 48px;
+  color: #ffffff;
+}
+
+.p-1 {
+  width: 1320px;
+  height: 28px;
+  /* gap: 0px;
+  opacity: 0px; */
+  font-size: 20px;
+  align-items: center;
+  margin-bottom: 40px;
+  color: #e6e6e6;
+}
+
+.sec-cont {
+  width: 100%;
+  height: 448px;
+  gap: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sec-cont div {
+  flex: 1;
+  text-align: center;
+}
+
+.fir-p,
+.sec-p,
+.thi-p,
+.for-p {
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding: 20px 0;
+}
+
+.foot {
+    text-align: left;
+}
+
+.foot h3{
+    color: #658c4a;
+    margin-bottom: 40px;
+    gap: 24px;
+}
+
+.foot ul li {
+    padding: 0;
+    margin: 0;
+    gap: 24px;
+}
+
+.foot li a{
+    color: rgb(58, 58, 58);
+    margin-bottom: 20px;
+    gap: 24px;
+}
